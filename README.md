@@ -19,8 +19,16 @@ Dies will ich machen indem ich alle Benachrichtigungen abschalte oder so einstel
 - [ ] Modul-319 Abschlussarbeit anfangen
 - [ ] Kleines Projekt in C# fokussiert auf Funktionen anfangen
 
-  ## Zusammenfassung 24.10.2023
+## Zusammenfassung 24.10.2023
 Ich habe heute an dem Modul-319 gearbeitet. In dieser Zeit habe ich die Aufgaben 6019 und 2710 erledigt und 6021 angefangen. Am ende des Modul-319 müssen wir ein ePortfolio abgeben welches recht umfangreich sein muss, deswegen habe ich heute schon angefange um gut voranzukommen. Heute habe ich auch mit meinen Schulkameraden entschieden ein Projekt machen indem wir ein Roblox spiel erstellen was wir ab nächstes mal anfangen wollen. (70 Wörter)
 
 ## Arbeitspaket für 31.10.2023
 - [ ] Projekt mit Schulkolegen anfangen
+
+## Zusammenfassung 31.10.2023
+Ich, Tim Tafolli, Gabriel Zefaj und Florian Rexhaj haben uns entschieden eine Roblox Obby zu erstellen und programmieren. Ich und Florian haben im Roblox Studio experimentiert und Gabriel und Tim haben recherchiert zu Roblox Obbys. Wir haben entschieden alle gleichzeitig dran arzubeiten und um das zu ermöglichen haben wir es unterteilt und zugeteilt. Wir haben uns gedacht wir könnten einen speziellen Obby machen indem wir Jumpscares ein bauen und andere features die den Spielspass erhöhen sollten. (76 Wörter)
+
+## Arbeitspaket 7.11.2023
+- [ ] Im Roblox Studio besser zu werden indem ich ein paar kleine spiele erstelle.
+- [ ] Ich arbeite an meinem Teil von der Obby.
+- [ ] am ePortfolio M319 Handlungsziele 3&4 machen.
