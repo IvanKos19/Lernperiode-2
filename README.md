@@ -32,3 +32,15 @@ Ich, Tim Tafolli, Gabriel Zefaj und Florian Rexhaj haben uns entschieden eine Ro
 - [ ] Im Roblox Studio besser zu werden indem ich ein paar kleine spiele erstelle.
 - [ ] Ich arbeite an meinem Teil von der Obby.
 - [ ] am ePortfolio M319 Handlungsziele 3&4 machen.
+
+## Arbeitspaket 14.11
+- [ ] Neues Projekt ausdenken
+- [ ] Programmier Projekt an Phase Planen arbeiten
+
+## Zusammenfassung 14.11
+Ich habe mich entschieden selber ein neues Programmier Projekt anzufangen was in richtung Collisionen/Physik sollte gehen. Ich habe heute auch mit Gabriel Zefaj und Tim Tafolli an unserem gemeinsamen Programmier Projekt gearbeitet das wir von Adrian Schmied zugeteilt bekommen haben. Heute konnte ich konzentriert arbeiten und bin gut vorangekommen doch es war teilweise laut im Zimmer. (57 Wörter)
+
+## Arbeitspaket 21.11
+- [ ] Programmier Projekt mit Tim und Gabriel phase Entscheiden machen
+- [ ] Eigenes Projekt anfangen Codieren
+- [ ] Am Modul 162 3 Aufträge erledigen
