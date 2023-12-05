@@ -44,3 +44,14 @@ Ich habe mich entschieden selber ein neues Programmier Projekt anzufangen was in
 - [ ] Programmier Projekt mit Tim und Gabriel phase Entscheiden machen
 - [ ] Eigenes Projekt anfangen Codieren
 - [ ] Am Modul 162 3 Aufträge erledigen
+
+## Zusammenfassung 5.12
+Ich habe an unserem Programmierprojekt von Adrian Schmied gearbeitet. Wir sind momentan in der Phase kontrolliere und ich habe am Testkonzept und Testen gearbeitet. Ich habe auch Gabriel geholfen mit dem Programmieren und habe den Vortschritt dann Protokoliert. Die Stimmung war gut und ich konnte die Pausen gut einteilen. Ich habe auch angefangen mit dem ePortfolio von dem Modul 162. (60 Wörter)
+
+## Arbeitspaket 12.12
+
+- [ ] Programmier Projekt mit Tim und Gabriel phase Kontrollieren beenden und mit Auswertung beginnen
+- [ ] Adventskalender tag 2 versucht
+- [ ] Datenauswerten vom Modul 162 erledigen
+
+ 
